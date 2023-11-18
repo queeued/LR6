@@ -2,50 +2,51 @@
 ## Цель работы: изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием. 
 
 ### 1. Форк
-![123](screenshot/fork.png)
+![](https://github.com/queeued/LR6/blob/otchet/screenshots/fork.png)
 
 ### 2. Установлен Git
-![asdf](screenshot/git_vers.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/git_vers.png)
 
 ### 3. Ввёл имя пользователя и почту 
-![asdf](screenshot/скрин_акк.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%20%D0%B0%D0%BA%D0%BA.png)
 
 ### 4. Клонировал репозиторий 
-![asdf](Screenshot/git_clone.png)
+![asdf]([Screenshot/git_clone.png](https://github.com/queeued/LR6/blob/otchet/screenshots/git%20clone.png)
 
 ### 5. Создал файл через интерфейс GitHub 
-![asdf](Screenshot/добавленный_файл.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D1%8B%D0%BD%D0%B9%20%D1%84%D0%B0%D0%B9%D0%BB.png)
 
 ### 6. Подтянул измененния в локальный репозиторий  
-![asdf](Screenshot/git_pull.png)
+![asdf]([https://github.com/queeued/LR6/blob/otchet/screenshots/git%20pull.png)
 
 ### 7. Получил историю операций для каждой из веток
-![asdf](Screenshot/log_master.png)
-![asdf](Screenshot/log_branch.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/log%20master.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/log%20branch.png)
 
 ### 9. Выполнил слияние в ветку мастер
-![asdf](Screenshot/объединение_веток.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%82%D0%BE%D0%BA.png)
 
 ### 8. Решил проблему слияния 
-![asdf](Screenshot/конфликт.png)
-![asdf](Screenshot/разрешение_конфликта.png)
-![asdf](Screenshot/коммит_объединения.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82%D0%B0.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.png)
 
 ### 9. Удалил побочную ветку
-![asdf](Screenshot/удаление_ветки.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%82%D0%BA%D0%B8.png)
 
 ### 10. Сделал изменения и зафиксировал
-![asdf](Screenshot/коммит_1.png)
-![asdf](Screenshot/коммит_2.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%201.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%202.png)
 
 ### 11. Удаление последнего комита
-![asdf](Screenshot/отмена_коммита.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%B0.png)
 
 ### 12. Получил историю операций в форматированном виде 
-![asdf](Screenshot/история_операций.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B9.png)
 
 ### 12. Создал ветку для отчёта
-![asdf](Screenshot/ветка_для_отчета.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%B2%D0%B5%D1%82%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0.png)
+
 
 ### 13. Лог всех команд:
 ####  git config - настройки
