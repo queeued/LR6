@@ -11,13 +11,13 @@
 ![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%20%D0%B0%D0%BA%D0%BA.png)
 
 ### 4. Клонировал репозиторий 
-![asdf]([Screenshot/git_clone.png](https://github.com/queeued/LR6/blob/otchet/screenshots/git%20clone.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/git%20clone.png)
 
 ### 5. Создал файл через интерфейс GitHub 
 ![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D1%8B%D0%BD%D0%B9%20%D1%84%D0%B0%D0%B9%D0%BB.png)
 
 ### 6. Подтянул измененния в локальный репозиторий  
-![asdf]([https://github.com/queeued/LR6/blob/otchet/screenshots/git%20pull.png)
+![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/git%20pull.png)
 
 ### 7. Получил историю операций для каждой из веток
 ![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/log%20master.png)
@@ -29,7 +29,6 @@
 ### 8. Решил проблему слияния 
 ![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82.png)
 ![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82%D0%B0.png)
-![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.png)
 
 ### 9. Удалил побочную ветку
 ![asdf](https://github.com/queeued/LR6/blob/otchet/screenshots/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%82%D0%BA%D0%B8.png)
